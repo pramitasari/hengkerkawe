@@ -14,7 +14,7 @@ export default function Home() {
         <h1>SELAMAT DATANG HENGKER KAWE</h1>
         <p className="description">
           download hengker.exe:
-    <a href="www.youtube.com">DOWNLOAD HENGKER.EXE</a>
+    <a href="https://www.w3schools.com">DOWNLOAD</a>
         </p>
       </main>
 
