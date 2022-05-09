@@ -10,7 +10,7 @@ export default function Home() {
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
-      <main>
+      <main style="background-color:powderblue;">
         <h1>SELAMAT DATANG HENGKER KAWE</h1>
         <p className="description">
           download hengker.exe:
