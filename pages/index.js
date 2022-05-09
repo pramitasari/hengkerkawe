@@ -11,9 +11,9 @@ export default function Home() {
       </Head>
 
       <main>
-        <Header title="Welcome to my app!" />
+        <Header title="Welcome to Hengker!" />
         <p className="description">
-          Helo welcom to hangkerkawe, you are monitored!!
+          Helo welcome to hangkerkawe, you are monitored!!
         </p>
       </main>
 
